@@ -319,7 +319,7 @@ Transform:
   m_GameObject: {fileID: 140769725}
   serializedVersion: 2
   m_LocalRotation: {x: 0.7071068, y: 0, z: 0, w: 0.7071068}
-  m_LocalPosition: {x: -0.35, y: 4.24, z: 12.98}
+  m_LocalPosition: {x: -0.6, y: 3.84, z: 12.98}
   m_LocalScale: {x: 0.11612, y: 0.97411907, z: 0.11042664}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -1796,11 +1796,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2082574575589314430, guid: 1d9422b5c8bf072429428cf97c0ef56f, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -1.27
+      value: -1.52
       objectReference: {fileID: 0}
     - target: {fileID: 2082574575589314430, guid: 1d9422b5c8bf072429428cf97c0ef56f, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.01
+      value: 2.6100001
       objectReference: {fileID: 0}
     - target: {fileID: 2082574575589314430, guid: 1d9422b5c8bf072429428cf97c0ef56f, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1836,7 +1836,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2809424229994933259, guid: 1d9422b5c8bf072429428cf97c0ef56f, type: 3}
       propertyPath: m_Name
-      value: GoalTriggerHoleInOne
+      value: GoalTrigger (HoleInOne)
       objectReference: {fileID: 0}
     - target: {fileID: 3049501038651783484, guid: 1d9422b5c8bf072429428cf97c0ef56f, type: 3}
       propertyPath: m_Mesh
